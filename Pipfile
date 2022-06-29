@@ -6,8 +6,12 @@ name = "pypi"
 [packages]
 pandas = "*"
 numpy = "*"
+scipy = "*"
 matplotlib = "*"
 seaborn = "*"
+imbalanced-learn = "*"
+sklearn = "*"
+cython = "*"
 
 [dev-packages]
 
