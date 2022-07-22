@@ -1,4 +1,4 @@
-# Fake-Instagram-Account-Detection
+# Fake Instagram Account Detection
 
 This repo contains data and information about my Capstone Project Two for Springboard Data Science Program.
 
